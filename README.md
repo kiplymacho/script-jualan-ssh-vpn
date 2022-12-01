@@ -1,6 +1,6 @@
 ##### Script Membuat SSH Premium Untuk Di jual
 
- ##### Script Installer VPS by kiplymacho
+##### Script Installer VPS by kiplymacho
 
 Script auto installer VPS untuk memudahkan dalam berjualan SSH, VPN, dan Proxy
 
