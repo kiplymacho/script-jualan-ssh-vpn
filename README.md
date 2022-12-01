@@ -1,6 +1,6 @@
-#####Script Membuat SSH Premium Untuk Di jual
+##### Script Membuat SSH Premium Untuk Di jual
 
- #####Script Installer VPS by kiplymacho
+ ##### Script Installer VPS by kiplymacho
 
 Script auto installer VPS untuk memudahkan dalam berjualan SSH, VPN, dan Proxy
 
@@ -12,7 +12,7 @@ https://sfile.mobi/1Pk3b69xugs7
 
 Kemudian Kalian Harus Mempunyai ip vps Dan ip Vps Nya Sudah Di Jadikan Domain . Kalau Sudah Membuat ip vps Dan Dijadikan Domain Masuk Ke Aplikasi Termux Dan Login Kan ip vps nya di termux !! Kemudian 
 
-#####Installation
+##### Installation
 
 Untuk instalasi script silahkan jalankan perintah berikut:
 
@@ -38,10 +38,10 @@ Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk 
  - **Maks Login User** - masukkan limit login user. contoh: 1 (untuk melimit user hanya bisa 1 kali login)
 
 
-#####Feature
+##### Feature
 
 
-#####Layanan yang diaktifkan pada script ini:
+##### Layanan yang diaktifkan pada script ini:
 
 
  - **OpenVPN** : TCP 1194 (client config : http://IP:81/client.ovpn )
@@ -71,7 +71,7 @@ Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk 
  - **IPv6** : [off]
 
 
-#####Beberapa fitur yang tersedia saat ini:
+##### Beberapa fitur yang tersedia saat ini:
 
 
  - **speedtest --share** : untuk cek speed vps,
@@ -99,11 +99,11 @@ Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk 
  - **info** : untuk melihat ulang informasi ini.
 
 
-#####Beberapa alat atau tools yang dapat Anda gunakan:
+##### Beberapa alat atau tools yang dapat Anda gunakan:
 
 <pre>axel, bmon, htop, iftop, mtr, nethogs</pre>
 
-#####Jangan Lupa Klik Kotak Dibawah ini 
+##### Jangan Lupa Klik Kotak Dibawah ini 
 
 <p align="center">
   Follow Me On
