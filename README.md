@@ -109,7 +109,7 @@ Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk 
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/@km7ujuh">
+  <a href="https://www.youtube.com/@km7ujuh?sub_confirmation=1">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
   </a>
   <a href="https://www.instagram.com/kiplymacho/">
