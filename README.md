@@ -1,3 +1,15 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Subscribe+Channel+YouTube+@km7ujuh" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
+</p>
+<h2 align="center">
+Powered By kiplymacho
+<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
+
+</p> 
+
 ##### Script Membuat SSH Premium Untuk Di jual
 
 ##### Script Installer VPS by kiplymacho
@@ -112,6 +124,3 @@ Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk 
   <a href="https://www.youtube.com/@km7ujuh?sub_confirmation=1">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
   </a>
-  <a href="https://www.instagram.com/kiplymacho/">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
-</p>
