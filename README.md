@@ -114,7 +114,6 @@ Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk 
 ##### Beberapa alat atau tools yang dapat Anda gunakan:
 
 <pre>axel, bmon, htop, iftop, mtr, nethogs</pre>
-
 </p>
 <div height='45' align="center">
 <h2>Contact me: <br>
