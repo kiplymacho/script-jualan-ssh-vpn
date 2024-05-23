@@ -58,7 +58,7 @@ Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk 
 
  - **Nomor HP atau Email Pemilik Server** - silahkan masukkan nomor / email.
 
- - **Username untuk akun default** - masukkan username untuk akun SSH, VPN default. contoh: *khairil*
+ - **Username untuk akun default** - masukkan username untuk akun SSH, VPN default. contoh: *kiplymacho*
 
  - **Maks Login User** - masukkan limit login user. contoh: 1 (untuk melimit user hanya bisa 1 kali login)
 
