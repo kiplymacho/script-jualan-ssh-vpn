@@ -31,9 +31,8 @@ Script auto installer VPS untuk memudahkan dalam berjualan SSH, VPN, dan Proxy
 
 Sebelum menginstall script ini ada beberapa sistem yang dibutuhkan 
 
-Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Di Link Ini:
-
-https://sfile.mobi/1Pk3b69xugs7
+Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Di Link Ini:👉
+[termux](https://sfile.mobi/1Pk3b69xugs7)
 
 Kemudian Kalian Harus Mempunyai ip vps Dan ip Vps Nya Sudah Di Jadikan Domain . Kalau Sudah Membuat ip vps Dan Dijadikan Domain Masuk Ke Aplikasi Termux Dan Login Kan ip vps nya di termux !! Kemudian 
 
