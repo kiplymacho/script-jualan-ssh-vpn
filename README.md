@@ -143,12 +143,10 @@ Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk 
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
 
-# Jangan Lupa Follow
+- Bila masih bingung bisa di tanyakan 
+- [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
+- [WhatsApp](https://wa.me/6285751032225)
 
-<p align="center">
-
-  &nbsp;</p><p align="center">Youtube</p><p align="center"><span style="text-align: left;">👇👇</span></p>
-
-  <p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.youtube.com/@km7ujuh">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Instagram</p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 👇👇&nbsp;</p>
-
-   <p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.instagram.com/kiplymacho">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p><p></p>
+# _Follow_
+- Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
+- Klik Disini👉[instagram](https://instagram.com/kiplymacho)
