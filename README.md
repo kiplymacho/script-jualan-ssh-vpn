@@ -40,16 +40,20 @@ Kemudian Kalian Harus Mempunyai ip vps Dan ip Vps Nya Sudah Di Jadikan Domain . 
 
 Untuk instalasi script silahkan jalankan perintah berikut:
 
-$ wget https://raw.githubusercontent.com/kiplymacho/script-jualan-ssh-vpn/master/centos-kvm.sh
-
-$ chmod +x centos-kvm.sh
-
-$ sh centos-kvm.sh
-
+```
+wget https://raw.githubusercontent.com/kiplymacho/script-jualan-ssh-vpn/master/centos-kvm.sh
+```
+```
+chmod +x centos-kvm.sh
+```
+```
+sh centos-kvm.sh
+```
 atau bisa aja langsung yg dibawah ini
 
-$ wget https://raw.githubusercontent.com/kiplymacho/script-jualan-ssh-vpn/master/centos-kvm.sh && chmod +x centos-kvm.sh && sh centos-kvm.sh
-
+```
+wget https://raw.githubusercontent.com/kiplymacho/script-jualan-ssh-vpn/master/centos-kvm.sh && chmod +x centos-kvm.sh && sh centos-kvm.sh
+```
 Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk mengisi:
 
 
